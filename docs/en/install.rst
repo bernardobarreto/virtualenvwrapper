@@ -269,7 +269,7 @@ Upgrading to 2.9
 ================
 
 Version 2.9 includes the features previously delivered separately by
-``virtualenvwrapper.project``.  If you have an older verison of the
+``virtualenvwrapper.project``.  If you have an older version of the
 project extensions installed, remove them before upgrading.
 
 Upgrading from 1.x
